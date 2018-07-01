@@ -1,0 +1,62 @@
+Apr 14, 2018 9:23:16 PM hardwarestore.MainAppUI <init>
+INFO: Program Running.
+Apr 14, 2018 9:23:19 PM hardwarestore.MainAppUI setInstructions
+INFO: Instructions output on display.
+Apr 14, 2018 9:23:19 PM hardwarestore.MainAppUI showAllItems
+INFO: showAllItems success.
+Apr 14, 2018 9:23:47 PM hardwarestore.MainAppUI removesItem
+INFO: removesItem called.
+Apr 14, 2018 9:23:47 PM hardwarestore.MainAppUI removesItem
+INFO: removesItem success.
+Apr 14, 2018 9:23:51 PM hardwarestore.MainAppUI setInstructions
+INFO: Instructions output on display.
+Apr 14, 2018 9:23:51 PM hardwarestore.MainAppUI showAllItems
+INFO: showAllItems success.
+Apr 14, 2018 9:23:56 PM hardwarestore.MainAppUI setInstructions
+INFO: Instructions output on display.
+Apr 14, 2018 9:23:56 PM hardwarestore.MainAppUI showAllTransactions
+INFO: showAllTransactions success.
+Apr 14, 2018 9:24:02 PM hardwarestore.MainAppUI setInstructions
+INFO: Instructions output on display.
+Apr 14, 2018 9:24:03 PM hardwarestore.MainAppUI saveDatabase
+INFO: Data saved exiting program.
+Apr 14, 2018 9:28:08 PM hardwarestore.MainAppUI <init>
+INFO: Program Running.
+Apr 14, 2018 9:28:18 PM hardwarestore.MainAppUI searchItemByName
+INFO: searchItemByName called.
+Apr 14, 2018 9:28:21 PM hardwarestore.MainAppUI setInstructions
+INFO: Instructions output on display.
+Apr 14, 2018 9:28:21 PM hardwarestore.MainAppUI showAllItems
+INFO: showAllItems success.
+Apr 14, 2018 9:28:25 PM hardwarestore.MainAppUI setInstructions
+INFO: Instructions output on display.
+Apr 14, 2018 9:28:31 PM hardwarestore.MainAppUI searchItemByName
+INFO: searchItemByName called.
+Apr 14, 2018 9:28:31 PM hardwarestore.MainAppUI searchItemByName
+INFO: searchItemByName success.
+Apr 14, 2018 9:28:36 PM hardwarestore.MainAppUI searchItemByName
+INFO: searchItemByName called.
+Apr 14, 2018 9:28:36 PM hardwarestore.MainAppUI searchItemByName
+INFO: searchItemByName success.
+Apr 14, 2018 9:28:43 PM hardwarestore.MainAppUI searchItemByName
+INFO: searchItemByName called.
+Apr 14, 2018 9:28:43 PM hardwarestore.MainAppUI searchItemByName
+INFO: searchItemByName success.
+Apr 14, 2018 9:28:50 PM hardwarestore.MainAppUI setInstructions
+INFO: Instructions output on display.
+Apr 14, 2018 9:28:53 PM hardwarestore.MainAppUI addItemQuantity
+INFO: addItemQuantity called.
+Apr 14, 2018 9:29:27 PM hardwarestore.MainAppUI setInstructions
+INFO: Instructions output on display.
+Apr 14, 2018 9:30:26 PM hardwarestore.MainAppUI addItemQuantity
+INFO: addItemQuantity called.
+Apr 14, 2018 9:30:26 PM hardwarestore.MainAppUI addItemQuantity
+INFO: addItemQuantity success.
+Apr 14, 2018 9:30:29 PM hardwarestore.MainAppUI setInstructions
+INFO: Instructions output on display.
+Apr 14, 2018 9:30:29 PM hardwarestore.MainAppUI showAllItems
+INFO: showAllItems success.
+Apr 14, 2018 9:30:40 PM hardwarestore.MainAppUI setInstructions
+INFO: Instructions output on display.
+Apr 14, 2018 9:30:42 PM hardwarestore.MainAppUI saveDatabase
+INFO: Data saved exiting program.
